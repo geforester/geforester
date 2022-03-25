@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geforester
 - 👀 I’m interested in technologies and photography
 - 🌱 I’m currently learning JS
-- 📫 How to reach me. Telegram: @geforester
+- 📫 Telegram: @geforester
 
 <!---
 geforester/geforester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
